@@ -12,6 +12,7 @@ Also I like being able to launch things through a interactive style CLI if I nee
 - requires powershell to have execution policy set to something other than restricted. I'm a harbinger of chaos and set mine to unrestricted on everything other than my personal rig, but you can probably do something safer.
 - the config files are essentially ```|``` separated text files, instead of something probably "safer" like xml. I have no excuse for this except laziness, and a hatred of having to add everything as a tag for something I whipped up over a weekend essentially
 - at the end of the day I only tested this with 2 big mods, Brutal Doom, and Project Brutality, as the former has been abandoned and I wanted to see what the new shiny was. *In theory* this should work with any other mod but *realistically* I haven't tested that
+- The gzdoom.ini file for saving configuration is saved in the root directory of the RUN script. This wasn't originally intended but I decided that was a good a place as any so there is where it is created on first run
 
 ## Instructions
 1. download [GZDoom](https://zdoom.org/downloads) and place the files from the zip download into the Engine folder
