@@ -1,0 +1,2 @@
+Brutal Doom|brutalv21.pk3|savefilesBD
+Project Brutality|Project_Brutality-master.zip|savefilesPB

@@ -1,0 +1,15 @@
+Alien Vendetta|AV.WAD|DOOM2.WAD
+DOOM 2 The Way id Did|D2TWID.WAD|DOOM2.WAD
+DOOM The Way id Did|DTWID.WAD|DOOM.WAD
+Eternal DOOM|ETERNAL.WAD|DOOM2.WAD
+Memento Mori|MM.WAD|DOOM2.WAD
+Requiem|REQUIEM.WAD|DOOM2.WAD
+Reverie|REVERIE.WAD|DOOM2.WAD
+Scythe|SCYTHE.WAD|DOOM2.WAD
+Ancient Aliens|aaliens_v1_2.wad|DOOM2.WAD
+Valiant|Valiant.wad|DOOM2.WAD
+Sunlus|sunlust.wad|DOOM2.WAD
+DOOM 2 (Vanilla)|DOOM2.WAD|DOOM2.WAD
+DOOM (Vanilla)|DOOM.WAD|DOOM.WAD
+Freedoom: Phase 1|freedoom1.wad|freedoom1.wad
+Freedoom: Phase 2|freefoom2.wad|freedoom2.wad
